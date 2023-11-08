@@ -68,6 +68,7 @@ export const Banner = () => {
                     I'm motivated to develop my abilities and gain knowledge and new experience.
                   </p>
                 </div>
+                
               </div>}
             </TrackVisibility>
           </Col>
